@@ -64,7 +64,7 @@ As the data analyst on this project, I was responsible for transforming raw book
 
 ## 🔗 Useful Links
 
-- **🔗 LinkedIn Post:** <a href="https://www.linkedin.com/posts/mohan-b-4b7719199_businessinsights360-powerbi-datavisualization-activity-7314969410534838272-U0e1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6O9IsBUFscZdiXW4-tlacqbHfAQjEVH0M">Check it out</a>
+- **🔗 LinkedIn Post:** <a href="https://www.linkedin.com/posts/mohan-b-4b7719199_powerbi-dataanalytics-hospitalityindustry-activity-7316095352925798400-CR9c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6O9IsBUFscZdiXW4-tlacqbHfAQjEVH0M">Check it out</a>
 - **🔗 Live Power BI Dashboard:** <a href="https://app.powerbi.com/groups/me/reports/d9e0f4ee-98eb-48a4-b056-4b89011410b2/cab059bfa00ca500336a?experience=power-bi">View Live Dashboard</a>
 
 ---
