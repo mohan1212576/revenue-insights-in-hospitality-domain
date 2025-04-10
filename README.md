@@ -54,11 +54,11 @@ As the data analyst on this project, I was responsible for transforming raw book
 
 ### 1. User-Empathetic Landing Page
 *An intuitive entry point for all stakeholders.*  
-<a href="https://github.com/mohan1212576/Power-BI--Business-insights-360/blob/main/Screenshot%201.png">Check it out</a>
+<a href="https://github.com/mohan1212576/revenue-insights-in-hospitality-domain/blob/main/Dashboard.png">Check it out</a>
 
 ### 2. Data Modelling
 *Complex data modelling involving 10+ interconnected tables.*  
-<a href="https://github.com/mohan1212576/Power-BI--Business-insights-360/blob/main/Project_Screenshot2_updated.png">Check it out</a>
+<a href="https://github.com/mohan1212576/revenue-insights-in-hospitality-domain/blob/main/Model%20View.png">Check it out</a>
 
 ---
 
