@@ -42,7 +42,6 @@ As the data analyst on this project, I was responsible for transforming raw book
 - 📌 Enabled the revenue management team to adopt a data-driven approach for business recovery and growth.
 
 ---
-
 ## 🚀 Tools & Technologies
 
 - **Power BI** for interactive dashboarding and data visualization
@@ -51,8 +50,28 @@ As the data analyst on this project, I was responsible for transforming raw book
 
 ---
 
+## 📸 Screenshots
+
+### 1. User-Empathetic Landing Page
+*An intuitive entry point for all stakeholders.*  
+<a href="https://github.com/mohan1212576/Power-BI--Business-insights-360/blob/main/Screenshot%201.png">Check it out</a>
+
+### 2. Data Modelling
+*Complex data modelling involving 10+ interconnected tables.*  
+<a href="https://github.com/mohan1212576/Power-BI--Business-insights-360/blob/main/Project_Screenshot2_updated.png">Check it out</a>
+
+---
+
+## 🔗 Useful Links
+
+- **🔗 LinkedIn Post:** <a href="https://www.linkedin.com/posts/mohan-b-4b7719199_businessinsights360-powerbi-datavisualization-activity-7314969410534838272-U0e1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6O9IsBUFscZdiXW4-tlacqbHfAQjEVH0M">Check it out</a>
+- **🔗 Live Power BI Dashboard:** <a href="https://app.powerbi.com/groups/e0f9c425-7cbd-4960-90f9-6374aa32010c/reports/edf6ded7-3903-43d1-9372-c33867f1c951/a45d31b0b4aa5e0566c0?experience=power-bi&clientSideAuth=0">View Live Dashboard</a>
+
+---
+
 ## 🌟 Key Takeaway
 
 This project empowered AtliQ Grands' leadership to move from reactive decision-making to a proactive, data-first strategy — unlocking insights that were previously hidden in their booking data and driving better revenue outcomes across their hotel chain.
 
 ---
+
